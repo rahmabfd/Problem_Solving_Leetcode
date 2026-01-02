@@ -10,6 +10,7 @@ My LeetCode problem-solving practice in Python.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0387-first-unique-character-in-a-string](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
 |  |
@@ -19,4 +20,12 @@ My LeetCode problem-solving practice in Python.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
