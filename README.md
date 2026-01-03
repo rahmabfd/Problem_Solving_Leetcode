@@ -42,6 +42,7 @@ My LeetCode problem-solving practice in Python.
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
