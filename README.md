@@ -29,6 +29,7 @@ My LeetCode problem-solving practice in Python.
 | [0014-longest-common-prefix](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1002-find-common-characters](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1002-find-common-characters) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Trie
 |  |
@@ -42,4 +43,12 @@ My LeetCode problem-solving practice in Python.
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
