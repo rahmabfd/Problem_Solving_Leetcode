@@ -38,4 +38,8 @@ My LeetCode problem-solving practice in Python.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
