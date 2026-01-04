@@ -46,6 +46,7 @@ My LeetCode problem-solving practice in Python.
 | [0595-big-countries](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/0619-biggest-single-number) |
 | [1068-product-sales-analysis-i](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1148-article-views-i](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/rahmabfd/Problem_Solving_Leetcode/tree/master/1934-confirmation-rate) |
